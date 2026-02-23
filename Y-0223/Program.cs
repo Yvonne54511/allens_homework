@@ -4,7 +4,7 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
+			Console.WriteLine("Homework for 0223 is still preparing...");
 		}
 	}
 }
