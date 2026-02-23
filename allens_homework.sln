@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "allens_homework", "allens_homework\allens_homework.csproj", "{D5A9E0F2-ED5D-42AD-A667-CC7F30D163ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eric_Product_Web", "Eric_Product_Web\Eric_Product_Web.csproj", "{5E29C751-453F-465C-90AC-5A9BF1A9BF82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D5A9E0F2-ED5D-42AD-A667-CC7F30D163ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A9E0F2-ED5D-42AD-A667-CC7F30D163ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A9E0F2-ED5D-42AD-A667-CC7F30D163ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E29C751-453F-465C-90AC-5A9BF1A9BF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E29C751-453F-465C-90AC-5A9BF1A9BF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E29C751-453F-465C-90AC-5A9BF1A9BF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E29C751-453F-465C-90AC-5A9BF1A9BF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
